@@ -2,6 +2,18 @@
 Start jumping into swiftUI<br>
 
 
+Experienced iOS Developer with a strong track record in the information technology and services industry. Proficient in Objective-C, Swift, SwiftUI and Flutter (Dart), I possess a deep understanding of mobile app development and a passion for creating user-friendly and high-performance applications. With a demonstrated history of delivering successful projects, I am committed to staying up-to-date with the latest technologies and industry trends.
+
+My expertise lies in leveraging Objective-C and Swift to build robust and scalable iOS applications. I am well-versed in the intricacies of iOS frameworks, tools, and APIs, allowing me to create intuitive user interfaces and seamless user experiences. Additionally, my knowledge extends to Flutter and Dart, enabling me to develop cross-platform mobile applications that run seamlessly on both iOS and Android devices.
+
+Throughout my career, I have collaborated with diverse teams and stakeholders, effectively communicating technical concepts to non-technical individuals. This ability to bridge the gap between technical and non-technical stakeholders has been instrumental in driving successful project outcomes. Moreover, I am skilled in troubleshooting and debugging, ensuring smooth app performance and addressing issues promptly.
+
+Passionate about innovation and staying ahead in the rapidly evolving mobile app landscape, I am proactive in learning and adopting new technologies. This drive for continuous improvement enables me to embrace challenges, explore creative solutions, and deliver cutting-edge mobile applications.
+
+If you are seeking an experienced iOS Developer who can contribute to your team's success, I welcome the opportunity to connect and discuss how my skills and expertise align with your organization's goals. Let's collaborate to create exceptional user experiences and drive technological advancements in the mobile app industry.
+
+Feel free to reach out to me via LinkedIn or email to discuss potential opportunities or explore ways we can collaborate.
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/jatinj03) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/j3_patel) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jatin3011) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@jatinj044) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Jatin-Patel-124) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/5598477) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@jatinj03) 
 
